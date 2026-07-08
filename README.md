@@ -46,4 +46,7 @@ MIT License. クレジットは [NOTICE.md](./NOTICE.md) を参照（校閲ル�
 
 ---
 
-関連記事（Zenn / note）: 公開後にここへリンクを差し込みます。
+関連記事:
+
+- note（エッセイ）: https://note.com/benihistudio/n/ne7034862748e
+- Zenn（技術）: 公開URL確定後に差し込みます
